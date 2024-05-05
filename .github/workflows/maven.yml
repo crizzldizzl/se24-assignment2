@@ -6,6 +6,7 @@
 # separate terms of service, privacy policy, and support
 # documentation.
 
+#secret key in GitHub
 name: Java CI with Maven
 
 on:
