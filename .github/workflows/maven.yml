@@ -6,6 +6,8 @@
 # separate terms of service, privacy policy, and support
 # documentation.
 
+#SonarCloud Access Token: 60afe855dcb172770ddfa2213bda87b1f8e6b2d7
+
 name: Java CI with Maven
 
 on:
